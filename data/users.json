@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "verified": true,
+      "name": "Nike.com",
+      "url": "https://t.co/1eW4qPemOT",
+      "location": "Beaverton, OR",
+      "id": "17351972",
+      "created_at": "2008-11-12T23:43:12.000Z",
+      "description": "Your online provider for Nike products worldwide.",
+      "username": "nikestore",
+      "public_metrics": {
+        "followers_count": 4675618,
+        "following_count": 128,
+        "tweet_count": 380454,
+        "listed_count": 9216
+      }
+    },
+    {
+      "verified": true,
+      "name": "adidas",
+      "url": "https://t.co/IWCkBzzBih",
+      "id": "300114634",
+      "created_at": "2011-05-17T06:57:08.000Z",
+      "description": "Through sport, we have the power to change lives. #ImpossibleIsNothing",
+      "username": "adidas",
+      "public_metrics": {
+        "followers_count": 3936912,
+        "following_count": 161,
+        "tweet_count": 14005,
+        "listed_count": 4466
+      }
+    },
+    {
+      "verified": true,
+      "name": "ChampionUSA",
+      "url": "https://t.co/nqCEd5QrDc",
+      "id": "153031349",
+      "created_at": "2010-06-07T14:17:18.000Z",
+      "description": "The Official Champion Athleticwear Twitter handle - where authentic sports apparel lives, since 1919.",
+      "username": "ChampionUSA",
+      "public_metrics": {
+        "followers_count": 47653,
+        "following_count": 2811,
+        "tweet_count": 5940,
+        "listed_count": 233
+      }
+    },
+    {
+      "verified": true,
+      "name": "Reebok",
+      "url": "https://t.co/bzqoIKAtas",
+      "location": "Reebok Global HQ | Boston, MA",
+      "id": "21915474",
+      "created_at": "2009-02-25T20:40:06.000Z",
+      "description": "#SportTheUnexpected",
+      "username": "Reebok",
+      "public_metrics": {
+        "followers_count": 710561,
+        "following_count": 5156,
+        "tweet_count": 37417,
+        "listed_count": 2363
+      }
+    },
+    {
+      "verified": true,
+      "name": "PUMA",
+      "url": "https://t.co/a0XeDsSgIh",
+      "id": "50883209",
+      "created_at": "2009-06-26T02:25:27.000Z",
+      "description": "Since 1948, PUMA has changed the game with speed, spontaneity, and performance innovation. Get a behind the scenes look at all things #ForeverFaster.",
+      "username": "PUMA",
+      "public_metrics": {
+        "followers_count": 1731240,
+        "following_count": 57,
+        "tweet_count": 71983,
+        "listed_count": 18680
+      }
+    },
+    {
+      "verified": true,
+      "name": "ASICS America",
+      "url": "https://t.co/8Y8qNcJjOw",
+      "id": "32171828",
+      "created_at": "2009-04-16T22:00:41.000Z",
+      "description": "Sound Mind, Sound Body\u2122",
+      "username": "ASICSamerica",
+      "public_metrics": {
+        "followers_count": 96013,
+        "following_count": 1541,
+        "tweet_count": 15326,
+        "listed_count": 1350
+      }
+    },
+    {
+      "verified": true,
+      "name": "Converse",
+      "url": "https://t.co/ndW1Zvn6Yg",
+      "location": "Boston, Massachusetts",
+      "id": "183398746",
+      "created_at": "2010-08-26T22:28:23.000Z",
+      "description": "All Stars change the game so everyone can play. #ConverseAllStars",
+      "username": "Converse",
+      "public_metrics": {
+        "followers_count": 1053720,
+        "following_count": 14,
+        "tweet_count": 9628,
+        "listed_count": 2045
+      }
+    },
+    {
+      "verified": false,
+      "name": "Satisfy",
+      "url": "https://t.co/aRMDJtV16R",
+      "id": "752072829278023680",
+      "created_at": "2016-07-10T09:31:50.000Z",
+      "description": "Premium technical apparel for running",
+      "username": "satisfyrunning",
+      "public_metrics": {
+        "followers_count": 203,
+        "following_count": 41,
+        "tweet_count": 10,
+        "listed_count": 2
+      }
+    },
+    {
+      "verified": true,
+      "name": "lululemon",
+      "url": "https://t.co/pfzSEgBnhI",
+      "location": "Vancouver, BC",
+      "id": "16252784",
+      "created_at": "2008-09-12T04:11:23.000Z",
+      "description": "Our products create transformational experiences for people to live happy, healthy, fun lives. Tweeting from Vancouver, BC and living #thesweatlife.",
+      "username": "lululemon",
+      "public_metrics": {
+        "followers_count": 993783,
+        "following_count": 370,
+        "tweet_count": 312457,
+        "listed_count": 4916
+      }
+    },
+    {
+      "verified": true,
+      "name": "Under Armour",
+      "url": "https://t.co/wdMGfGHKsZ",
+      "location": "Baltimore, MD",
+      "id": "23114836",
+      "created_at": "2009-03-06T20:35:33.000Z",
+      "description": "Under Armour makes you better. #TheOnlyWayIsThrough",
+      "username": "UnderArmour",
+      "public_metrics": {
+        "followers_count": 946626,
+        "following_count": 878,
+        "tweet_count": 26586,
+        "listed_count": 3301
+      }
+    },
+    {
+      "verified": true,
+      "name": "Vans",
+      "url": "https://t.co/hZbNWPLx05",
+      "location": "California, USA",
+      "id": "15383636",
+      "created_at": "2008-07-10T21:36:30.000Z",
+      "description": "The official Vans Twitter.",
+      "username": "VANS_66",
+      "public_metrics": {
+        "followers_count": 1282080,
+        "following_count": 347,
+        "tweet_count": 57967,
+        "listed_count": 2805
+      }
+    }
+  ]
+}
