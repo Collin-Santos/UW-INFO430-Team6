@@ -3,3 +3,5 @@ test_output_tweets.json
 test_output_tweets_2.json
 reformat_test.py
 reformat_test_output.json
+test.py
+insert_to_db_test.py
