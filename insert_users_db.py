@@ -1,6 +1,7 @@
 import os
 import json
 import pyodbc
+from connection_info import *
 
 user_file_name = 'data/users.json'
 
@@ -28,11 +29,14 @@ for user in users_json['data']:
         'listed': user['public_metrics']['listed_count']
     })
 
-
+""" # For local connections
 conn = pyodbc.connect("Driver={SQL Server Native Client 11.0};"
                       "Server=DESKTOP-R2AJUTJ;"
                       "Database=Info430ProjectDB;"
                       "Trusted_Connection=yes;")
+"""
+# For server connections
+conn = pyodbc.connect('DRIVER={SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
 
 cursor = conn.cursor()
 for itm in user_info:

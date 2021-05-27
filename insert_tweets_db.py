@@ -1,7 +1,7 @@
 import os
 import json
 import pyodbc
-
+from connection_info import *
 
 def gather_data(twitter_handle):
     tweets_file_name = 'data/tweets_{}.json'.format(twitter_handle)
@@ -36,11 +36,15 @@ if __name__ == '__main__':
     for handle in twitter_handles:
         data.append(gather_data(handle))
     
+    """ # For local connection
     conn = pyodbc.connect("Driver={SQL Server Native Client 11.0};"
                         "Server=DESKTOP-R2AJUTJ;"
                         "Database=Info430ProjectDB;"
                         "Trusted_Connection=yes;")
-
+    """
+    # For server connections
+    conn = pyodbc.connect('DRIVER={SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
+    
     cursor = conn.cursor()
 
     for user in data:
