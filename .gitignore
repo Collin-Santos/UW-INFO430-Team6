@@ -7,3 +7,4 @@ test.py
 insert_to_db_test.py
 connection_info.py
 /__pycache__
+/testing
