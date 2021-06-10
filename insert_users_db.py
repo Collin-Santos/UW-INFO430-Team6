@@ -1,7 +1,11 @@
+# Used to insert users from JSON dumped files directly to a hosted or local database.
+
 import os
 import json
 import pyodbc
 from connection_info import *
+
+# Note: Database connection information should be provided in a separte file for security.
 
 user_file_name = 'data/users.json'
 

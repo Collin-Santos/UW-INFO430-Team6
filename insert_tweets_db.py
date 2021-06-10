@@ -1,7 +1,11 @@
+# Used to insert tweets from JSON dumped files directly to a hosted or local database.
+
 import os
 import json
 import pyodbc
 from connection_info import *
+
+# Note: Database connection information should be provided in a separte file for security.
 
 def gather_data(twitter_handle):
     tweets_file_name = 'data/tweets_{}.json'.format(twitter_handle)

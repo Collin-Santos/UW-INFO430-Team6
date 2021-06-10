@@ -1,9 +1,15 @@
+# Connects and requests user data from designated users utilizing the Twitter API
+# Dumps JSON information into sperated files.
+
 import requests
 import os
 import json
 import time
 
 from requests.api import request
+
+# Note: Twitter API keys must be exported into the environment before execution
+# Consult Twitter API devoloper documention for additional information
 
 # Set 1
 twitter_handles = [17351972, 300114634, 153031349, 21915474, 50883209,
